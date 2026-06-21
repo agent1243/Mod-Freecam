@@ -1,4 +1,4 @@
-# Freecam
+# freecam
 Freecam is a mod that allows you to control the camera freely around the world with a simple command.
 
 ### Main functions:
